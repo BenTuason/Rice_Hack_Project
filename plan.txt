@@ -1,0 +1,1 @@
+waves-> charactes/npcs -> autoshoots/controls -> quiz -> first level enemies/boss -> 2nd level enemies/boss -> third level enemies/boss -> start screen(display controls)
